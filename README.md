@@ -17,7 +17,7 @@
 [<img align="left" alt="kevinvaghela | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />](https://www.kaggle.com/kevinwaghela)
 [<img align="left" alt="kevinvaghela | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kevinvaghela)
 [<img align="left" alt="kevinvaghela | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kevin_waghela)
-[<img align="left" alt="kevinvaghela" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://crop-predictor.herokuapp.com)
+<!-- [<img align="left" alt="kevinvaghela" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://crop-predictor.herokuapp.com) -->
 
 <br />
 
