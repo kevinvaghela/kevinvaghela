@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything about data
 - 👯 I’m looking to collaborate with similar minded people
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to watch and play cricket / [chess](https://www.chess.com/member/kevin_waghela)
 
 
