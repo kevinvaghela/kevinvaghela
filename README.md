@@ -52,7 +52,7 @@
 <br />
 
 ### My Data Analysis(EDA) Projects : 
-- [1. Bank Customer Curn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
+- [1. Bank Customer Churn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
 
 
 [website]: https://crop-predictor.herokuapp.com
