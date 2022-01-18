@@ -49,6 +49,11 @@
 - [10. Default of credit cards](https://github.com/kevinvaghela/ml-projects/tree/main/default%20of%20credit%20cards)💳
 - [11. Heart Diesease Prediction](https://github.com/kevinvaghela/ml-projects/tree/main/heart%20disease)♥️ (ps:unable to print actual heart's emoji)
 
+<br />
+
+### My Data Analysis(EDA) Projects : 
+- [1. Bank Customer Curn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
+
 
 [website]: https://crop-predictor.herokuapp.com
 [leetcode]: https://leetcode.com/kevin_vaghela
