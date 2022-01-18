@@ -61,3 +61,7 @@
 [website]: https://crop-predictor.herokuapp.com
 [leetcode]: https://leetcode.com/kevin_vaghela
 [tableau]: https://public.tableau.com/profile/kevin.vaghela#!/
+
+<br />
+
+[![Kevin's github activity graph](https://activity-graph.herokuapp.com/graph?username=kevinvaghela)](https://github.com/ashutosh00710/github-readme-activity-graph)
