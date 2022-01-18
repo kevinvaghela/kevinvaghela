@@ -35,6 +35,9 @@
 
 <br />
 
+### My Data Analysis(EDA) Projects : 
+- [1. Bank Customer Churn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
+
 ### My ML/DL Projects :
 
 - [1. Plant Disease Recognization (End-to-End)](https://github.com/kevinvaghela/plant_disease_detection)☘️
@@ -50,9 +53,6 @@
 - [11. Heart Diesease Prediction](https://github.com/kevinvaghela/ml-projects/tree/main/heart%20disease)♥️ (ps:unable to print actual heart's emoji)
 
 <br />
-
-### My Data Analysis(EDA) Projects : 
-- [1. Bank Customer Churn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
 
 
 [website]: https://crop-predictor.herokuapp.com
