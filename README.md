@@ -37,16 +37,17 @@
 
 ### My Top 10 Projects :
 
-- [1. Crop Recommendation (End-to-End)](https://github.com/kevinvaghela/crop-predictor)🌱
-- [2. Movie-Recommendation System using Restricted Boltzmann Machine](https://github.com/kevinvaghela/Dl-projects/tree/main/Recommendation%20System/Boltzmann%20Machine)🎬
-- [3. Movie-Recommendation System using Stacked Auto Encoder](https://github.com/kevinvaghela/Dl-projects/tree/main/Recommendation%20System/Stacked%20Auto%20Encoder)🎬
-- [4. Fraudulent Detection using Self Organizing Map](https://github.com/kevinvaghela/Dl-projects/tree/main/self%20organizing%20map%20(SOM)/Fraudulent%20detection)🧐
-- [5. Google Stock Price Prediction using RNN](https://github.com/kevinvaghela/Dl-projects/tree/main/rnn/Google%20Stock%20Price%20Prediction)📈
-- [6. Churn Modeling using ANN](https://github.com/kevinvaghela/Dl-projects/tree/main/ann/churn%20modeling)🏦
-- [7. Cat or Dog Classification using CNN](https://github.com/kevinvaghela/Dl-projects/tree/main/cnn/Cat%20or%20Dog%20Claasification)🐱🐶
-- [8. Car Price Prediction using Linear Regression](https://github.com/kevinvaghela/Basic_Machine_Learning/blob/master/car%20price%20prediction(linear%20regression).ipynb)🚙
-- [9. Default of credit cards](https://github.com/kevinvaghela/ml-projects/tree/main/default%20of%20credit%20cards)💳
-- [10. Heart Diesease Prediction](https://github.com/kevinvaghela/ml-projects/tree/main/heart%20disease)♥️ (ps:unable to print actual heart's emoji)
+- [1. Plant Disease Recognization (End-to-End)](https://github.com/kevinvaghela/plant_disease_detection)
+- [2. Crop Recommendation (End-to-End)](https://github.com/kevinvaghela/crop-predictor)🌱
+- [3. Movie-Recommendation System using Restricted Boltzmann Machine](https://github.com/kevinvaghela/Dl-projects/tree/main/Recommendation%20System/Boltzmann%20Machine)🎬
+- [4. Movie-Recommendation System using Stacked Auto Encoder](https://github.com/kevinvaghela/Dl-projects/tree/main/Recommendation%20System/Stacked%20Auto%20Encoder)🎬
+- [5. Fraudulent Detection using Self Organizing Map](https://github.com/kevinvaghela/Dl-projects/tree/main/self%20organizing%20map%20(SOM)/Fraudulent%20detection)🧐
+- [6. Google Stock Price Prediction using RNN](https://github.com/kevinvaghela/Dl-projects/tree/main/rnn/Google%20Stock%20Price%20Prediction)📈
+- [7. Churn Modeling using ANN](https://github.com/kevinvaghela/Dl-projects/tree/main/ann/churn%20modeling)🏦
+- [8. Cat or Dog Classification using CNN](https://github.com/kevinvaghela/Dl-projects/tree/main/cnn/Cat%20or%20Dog%20Claasification)🐱🐶
+- [9. Car Price Prediction using Linear Regression](https://github.com/kevinvaghela/Basic_Machine_Learning/blob/master/car%20price%20prediction(linear%20regression).ipynb)🚙
+- [10. Default of credit cards](https://github.com/kevinvaghela/ml-projects/tree/main/default%20of%20credit%20cards)💳
+- [11. Heart Diesease Prediction](https://github.com/kevinvaghela/ml-projects/tree/main/heart%20disease)♥️ (ps:unable to print actual heart's emoji)
 
 
 [website]: https://crop-predictor.herokuapp.com
