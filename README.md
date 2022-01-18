@@ -37,8 +37,8 @@
 
 
 ### My Data Analysis(EDA) Projects : 
-- [1. Bank Customer Churn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
-- [2. Starbuck Customer Survey Analysis](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)
+- [1. Bank Customer Churn EDA](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)🕵️
+- [2. Starbuck Customer Survey Analysis](https://github.com/kevinvaghela/Data_Analysis/tree/main/customer_churn_EDA)☕
 
 ### My ML/DL Projects :
 
