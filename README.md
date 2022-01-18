@@ -35,9 +35,9 @@
 
 <br />
 
-### My Top 10 Projects :
+### My ML/DL Projects :
 
-- [1. Plant Disease Recognization (End-to-End)](https://github.com/kevinvaghela/plant_disease_detection)
+- [1. Plant Disease Recognization (End-to-End)](https://github.com/kevinvaghela/plant_disease_detection)☘️
 - [2. Crop Recommendation (End-to-End)](https://github.com/kevinvaghela/crop-predictor)🌱
 - [3. Movie-Recommendation System using Restricted Boltzmann Machine](https://github.com/kevinvaghela/Dl-projects/tree/main/Recommendation%20System/Boltzmann%20Machine)🎬
 - [4. Movie-Recommendation System using Stacked Auto Encoder](https://github.com/kevinvaghela/Dl-projects/tree/main/Recommendation%20System/Stacked%20Auto%20Encoder)🎬
