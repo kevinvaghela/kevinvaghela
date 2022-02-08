@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything about data
 - 👯 I’m looking to collaborate with similar minded people
 - 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to watch and play cricket / [chess](https://www.chess.com/member/kevin_waghela)
+- ⚡ Fun fact: I love to watch and play Cricket / [Chess](https://www.chess.com/member/kevin_waghela)
 
 
 ### Connect with me:
