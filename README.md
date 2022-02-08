@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/website?logo=crop&label=croppredictor.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://crop-predictor.herokuapp.com)
 [![Website](https://img.shields.io/website?color=006400&logo=crop&label=plant-doctor.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://plant-disease-doctor.herokuapp.com)
 <br>
+#### And that's my TABLEAU account for visualization and HACKERANK for coding 
 [![Website](https://img.shields.io/website?color=FF8C00&logo=tableau&label=tableau&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://public.tableau.com/profile/kevin.vaghela#!/)
 [![Leet Code](https://img.shields.io/website?color=4169E1&logo=hackerrank&label=hackerrank&style=for-the-badge&url=https%3A%2F%2Fhackerrank.com%2Fkevin_vaghela%2F)](https://www.hackerrank.com/kevinvaghela8899)
 
