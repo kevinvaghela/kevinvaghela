@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin 👋
 
-#### I have created 2 Web-app for Agriculture Industry.
+#### I have created 2 Web-app using ML/DL for Agriculture Industry.
 [![Website](https://img.shields.io/website?logo=crop&label=croppredictor.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://crop-predictor.herokuapp.com)
 [![Website](https://img.shields.io/website?color=006400&logo=crop&label=plant-doctor.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://plant-disease-doctor.herokuapp.com)
 <br>
