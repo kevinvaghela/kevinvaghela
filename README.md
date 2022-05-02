@@ -10,9 +10,9 @@
 
 ## I'm a Data Enthusiastic
 
-- 🎯 I’m currently learning everything about data
+- 🥅 I’m currently learning everything about data
 - 👯 I’m looking to collaborate with enthusiastic people
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🎯 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to watch and play Cricket / [Chess](https://www.chess.com/member/kevin_waghela)
 
 
