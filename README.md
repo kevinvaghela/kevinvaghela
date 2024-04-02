@@ -31,7 +31,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" />](https://www.mysql.com/)
 [<img align="left" alt="Anaconda Nevagator" width="26px" src="https://img.icons8.com/dusk/64/000000/anaconda.png" />](https://docs.anaconda.com/anaconda/navigator/)
 [<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/50/000000/tableau-software.png" />](https://public.tableau.com/profile/kevin.vaghela#!/)
-[<img align="left" alt="Google sheet" width="26px" src="https://img.icons8.com/doodle/64/000000/google-sheets.png" />](https://www.google.com/sheets/about/)
 [<img align="left" alt="Google cloud" width="26px" src="https://img.icons8.com/fluent/48/000000/google-cloud.png" />](https://cloud.google.com/)
 [<img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png" />](https://www.tensorflow.org/api_docs)
